@@ -1,4 +1,4 @@
 # Satya.demo
 This is my first GIT Repository
 <br>
-Author-Satyajit Nayak
+Author-Satyajit (student)
